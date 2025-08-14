@@ -1,8 +1,6 @@
 package encapsulation;
 
 public class Student {
-
-	public static void main(String[] args) {
 		private int sid;
 		private String sname;
 		private float avg;
@@ -29,7 +27,7 @@ public class Student {
 
 		public String toString() {
 			return "Student [sid=" + sid + ", sname=" + sname + ", avg=" + avg + "]";
-		
-	}
+		}
+	
 
 }
