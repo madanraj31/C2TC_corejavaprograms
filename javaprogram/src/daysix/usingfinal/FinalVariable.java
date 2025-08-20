@@ -23,5 +23,6 @@ public class FinalVariable {
 		Y = 20;
 		Z = 100; 
 		System.out.println("Value of Y: " + Y);
+		
 	}
 }
