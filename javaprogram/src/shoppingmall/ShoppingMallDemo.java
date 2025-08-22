@@ -7,7 +7,7 @@ public class ShoppingMallDemo {
 		Shopping s = new Cloths() ;
 		s.purchasing();
 		
-		s=new Electroincs();
+		s=new Electronics();
 		s.purchasing();	
 		
 	}
